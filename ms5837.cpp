@@ -34,7 +34,7 @@
 /**
  * @file ms5837.cpp
  * Driver for the MS5837-30 barometric pressure sensor connected via I2C.
- * @author Vera Cheung
+ * @author Vera
  */
 
 #include <px4_config.h>
